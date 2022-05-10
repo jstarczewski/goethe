@@ -1,0 +1,1 @@
+das Buch:Book;das Teufel:Diabeł;die Welt:World surronding us;der Zukunft:Future;
